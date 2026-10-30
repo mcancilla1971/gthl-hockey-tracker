@@ -1,0 +1,41 @@
+name: Update GTHL Standings
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 7,13,21 * * *'
+      timezone: 'America/Toronto'
+
+permissions:
+  contents: write
+
+jobs:
+  update-standings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Collect latest standings
+        run: python collect_standings.py
+
+      - name: Save updated standings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gthl_u12_aa_standings.csv
+          if ! git diff --cached --quiet; then
+            git commit -m "Update GTHL standings"
+            git push
+          fi
