@@ -1,19 +1,19 @@
 Region,Team,GP,W-L-T,PTS,WIN%,GFA,GAA,Home,Away,P10,Streak,PIM
 West,Vaughan Panthers,5,5-0-0,10,1.000,3.40,1.00,3-0-0,2-0-0,5-0-0,Won 5,0
+West,West Mall Lightning,5,5-0-0,10,1.000,4.00,0.80,4-0-0,1-0-0,5-0-0,Won 5,0
 West,Mississauga North Stars,6,4-0-2,10,.833,4.33,1.00,1-0-2,3-0-0,4-0-2,Won 2,0
-West,West Mall Lightning,4,4-0-0,8,1.000,4.00,0.75,3-0-0,1-0-0,4-0-0,Won 4,0
-West,Toronto Eagles,5,4-1-0,8,.800,4.60,1.00,3-0-0,1-1-0,4-1-0,Won 2,0
 West,Mississauga Terriers,5,4-1-0,8,.800,3.00,1.40,2-1-0,2-0-0,4-1-0,Lost 1,0
-West,Faustina Toros,4,3-1-0,6,.750,5.00,1.75,3-0-0,0-1-0,3-1-0,Won 3,0
+West,Faustina Toros,5,4-1-0,8,.800,5.00,1.80,3-0-0,1-1-0,4-1-0,Won 4,0
+West,Toronto Eagles,6,4-2-0,8,.667,4.17,1.67,3-1-0,1-1-0,4-2-0,Lost 1,0
 West,Vaughan Rangers,5,2-1-2,6,.600,4.20,1.80,1-0-1,1-1-1,2-1-2,Won 1,0
-West,Duffield Devils,5,2-2-1,5,.500,1.40,2.20,2-1-0,0-1-1,2-2-1,Lost 1,0
+West,Duffield Devils,6,2-3-1,5,.417,1.33,2.50,2-1-0,0-2-1,2-3-1,Lost 2,0
 West,Mississauga Beast,3,2-1-0,4,.667,3.67,4.00,2-0-0,0-1-0,2-1-0,Won 1,0
+West,Streetsville Tigers,6,1-4-1,3,.250,1.67,3.33,1-1-0,0-3-1,1-4-1,Won 1,0
 West,The Attack,5,1-4-0,2,.200,1.80,3.40,1-0-0,0-4-0,1-4-0,Lost 1,0
-West,Streetsville Tigers,5,0-4-1,1,.100,1.20,3.80,0-1-0,0-3-1,0-4-1,Lost 1,0
 West,Humber Valley Sharks,5,0-5-0,0,.000,0.60,3.80,0-2-0,0-3-0,0-5-0,Lost 5,0
 West,Mississauga Jets,6,0-6-0,0,.000,0.17,4.33,0-3-0,0-3-0,0-6-0,Lost 6,0
-West,Toronto Wolverines,5,0-5-0,0,.000,0.20,6.00,0-2-0,0-3-0,0-5-0,Lost 5,0
-East,Scarborough Ice Raiders,5,5-0-0,10,1.000,6.00,1.00,3-0-0,2-0-0,5-0-0,Won 5,0
+West,Toronto Wolverines,6,0-6-0,0,.000,0.33,5.67,0-2-0,0-4-0,0-6-0,Lost 6,0
+East,Scarborough Ice Raiders,6,6-0-0,12,1.000,7.83,0.83,3-0-0,3-0-0,6-0-0,Won 6,0
 East,North Toronto,6,5-1-0,10,.833,4.83,1.50,0-1-0,5-0-0,5-1-0,Won 2,0
 East,Leaside Flames,7,5-2-0,10,.714,3.00,1.71,3-1-0,2-1-0,5-2-0,Lost 1,0
 East,Scarborough Young Bruins,6,4-1-1,9,.750,3.00,1.67,3-1-0,1-0-1,4-1-1,Won 2,0
@@ -21,4 +21,4 @@ East,North York Knights,5,1-2-2,4,.400,2.60,2.40,1-1-1,0-1-1,1-2-2,Lost 1,0
 East,East Enders Ticats,6,2-4-0,4,.333,1.33,4.33,2-2-0,0-2-0,2-4-0,Won 2,0
 East,Ted Reeve Thunder,5,1-3-1,3,.300,2.20,2.80,1-1-1,0-2-0,1-3-1,Lost 2,0
 East,Toronto Aeros,6,1-5-0,2,.167,1.67,3.67,1-1-0,0-4-0,1-5-0,Lost 2,0
-East,Markham Islanders,6,0-6-0,0,.000,1.17,6.17,0-2-0,0-4-0,0-6-0,Lost 6,0
+East,Markham Islanders,7,0-7-0,0,.000,1.00,7.71,0-3-0,0-4-0,0-7-0,Lost 7,0
